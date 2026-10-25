@@ -1,5 +1,11 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Restaurant ordering app
+
+For the end-to-end walkthrough of the restaurant app—its architecture, screens,
+cart and checkout flow, code explanations, tests, and current limitations—see
+the [Restaurant App: Build and Code Guide](./docs/RESTAURANT_APP_GUIDE.md).
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
